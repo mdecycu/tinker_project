@@ -1,0 +1,90 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V2312.4001
+! INFO-      
+! INFO-     Start of Translation: 6-SEP-2025  11:01:51 AM
+! INFO-      
+! STATUS-   Converting Part: Y:\tmp\tinker_project\downloads\tito_doc\tito-v2.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        tito v2.step
+! SUMMARY-  Date             2024-01-12T17:40:15+01:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v20
+! SUMMARY-  Orig_System      Autodesk Translation Framework v12.14.0.127
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:   6726
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:   8349
+! SUMMARY-  b_spline_curve_with_knots ..................................:   2470
+! SUMMARY-  b_spline_surface_with_knots ................................:    572
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:     19
+! SUMMARY-  cartesian_point ............................................: 167401
+! SUMMARY-  circle .....................................................:   2050
+! SUMMARY-  closed_shell ...............................................:     52
+! SUMMARY-  conical_surface ............................................:    164
+! SUMMARY-  cylindrical_surface ........................................:    966
+! SUMMARY-  direction ..................................................:  29656
+! SUMMARY-  edge_curve .................................................:  17641
+! SUMMARY-  edge_loop ..................................................:   7466
+! SUMMARY-  ellipse ....................................................:    163
+! SUMMARY-  face_bound .................................................:    740
+! SUMMARY-  face_outer_bound ...........................................:   6726
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      2
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:  12958
+! SUMMARY-  manifold_solid_brep ........................................:     52
+! SUMMARY-  oriented_edge ..............................................:  35282
+! SUMMARY-  plane ......................................................:   4906
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      1
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      1
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation ...............................:      1
+! SUMMARY-  product_definition_shape ...................................:      1
+! SUMMARY-  product_related_product_category ...........................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  spherical_surface ..........................................:     64
+! SUMMARY-  toroidal_surface ...........................................:     35
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      2
+! SUMMARY-  vector .....................................................:  12958
+! SUMMARY-  vertex_point ...............................................:  11463
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         328894
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 6-SEP-2025 11:01:52 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-SEP-2025  11:02:08 AM
+! INFO-     Filing Part ..: Y:\tmp\tinker_project\downloads\tito_doc\tito-v2.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    52
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             52
+! INFO-      
+! INFO-     Total number of solids input for this translation       :        52
+! INFO-      
+! INFO-     Number of solids created without body validation faults :        52
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 6-SEP-2025  11:02:15 AM
+! INFO-      
